@@ -1,4 +1,4 @@
-# blockchain
+# Blockchain 101 Practice Project
 Building a blockchain for practicing purposes. 
 
 # Roadmap
