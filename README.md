@@ -12,3 +12,4 @@ Building a blockchain for practicing purposes.
 ## Distributed Ledger: 
 Multiple nodes connect through the core blockchain network. Each of the nodes gets a copy of the ledger. This idea of the blockchain being disributed eliminates the vulnerabilities that reside in using a centralized authority model (Banks) to keeo track of that ledger. That means there are no single points of failure for blockchain backed cryptocurrencies and/or systems. 
 
+# Cryptocurrencies IS NOT EQUAL Bitcoin IS NOT EQUAL Blockchain
